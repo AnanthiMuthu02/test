@@ -1,2 +1,2 @@
 # test
-testing
+npm install
